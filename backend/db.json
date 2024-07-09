@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "Três regras: não prometa nada quando estiver feliz; não responda nada quando estiver irritado; não decida nada quando estiver triste.",
+      "autoria": "Desconhecido",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "2",
+      "conteudo": "Não lamente o que podia ter e se perdeu por caminhos errados e nunca mais voltou.",
+      "autoria": "Desconhecido",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "3",
+      "conteudo": "Há três coisas na vida que nunca voltam atrás: a flecha lançada, a palavra pronunciada e a oportunidade perdida.",
+      "autoria": "Desconhecido",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "4",
+      "conteudo": "A vida só pode ser compreendida olhando-se para trás, mas só pode ser vivida olhando-se para a frente.",
+      "autoria": "Desconhecido",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "5",
+      "conteudo": "Quando a vida te decepciona, qual é a solução? Simplesmente continue a nadar.",
+      "autoria": "Desconhecido",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "6",
+      "conteudo": "Maior que a tristeza de não haver vencido é a vergonha de não ter lutado!",
+      "autoria": "Desconhecido",
+      "modelo": "modelo3"
+    }
+  ]
+}
