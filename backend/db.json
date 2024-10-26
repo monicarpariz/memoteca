@@ -31,10 +31,16 @@
       "modelo": "modelo2"
     },
     {
-      "id": "f4f5",
+      "id": "6",
       "conteudo": "Tenha coragem suficiente para começar e coração suficiente para terminar.",
       "autoria": "Desconhecido",
       "modelo": "modelo3"
+    },
+    {
+      "id": "7",
+      "conteudo": "Que a força esteja com você!",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo1"
     }
   ]
 }
